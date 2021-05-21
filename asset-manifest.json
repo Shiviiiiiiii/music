@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mudic/static/css/main.b554a20d.chunk.css",
+    "main.js": "/mudic/static/js/main.86fc5c21.chunk.js",
+    "main.js.map": "/mudic/static/js/main.86fc5c21.chunk.js.map",
+    "runtime-main.js": "/mudic/static/js/runtime-main.bbd7eee3.js",
+    "runtime-main.js.map": "/mudic/static/js/runtime-main.bbd7eee3.js.map",
+    "static/js/2.8e1019eb.chunk.js": "/mudic/static/js/2.8e1019eb.chunk.js",
+    "static/js/2.8e1019eb.chunk.js.map": "/mudic/static/js/2.8e1019eb.chunk.js.map",
+    "index.html": "/mudic/index.html",
+    "precache-manifest.79ac55b305cd958247d38009de030b49.js": "/mudic/precache-manifest.79ac55b305cd958247d38009de030b49.js",
+    "service-worker.js": "/mudic/service-worker.js",
+    "static/css/main.b554a20d.chunk.css.map": "/mudic/static/css/main.b554a20d.chunk.css.map",
+    "static/js/2.8e1019eb.chunk.js.LICENSE.txt": "/mudic/static/js/2.8e1019eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbd7eee3.js",
+    "static/js/2.8e1019eb.chunk.js",
+    "static/css/main.b554a20d.chunk.css",
+    "static/js/main.86fc5c21.chunk.js"
+  ]
+}
